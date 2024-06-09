@@ -1,0 +1,56 @@
+vc.b1.1.1
+*Fixed crash when selecting Support Attackers in the before battle window
+*Fixed Search Menu not scrolling
+
+vc.b1.1.2
+*Fixed getting a Game Over on Stage 4 sending you back to Stage 1
+*Fixed crash when loading save file from intermission Load menu
+
+vc.b1.1.4
+*Fixed Love being a search option for all pilots
+*Fixed Nodoka not being properly assigned to Brassbell, causing crashes in some detail screens
+*Fixed Unit List highlighting for sub pilots
+*Added unit highlighting rule when searching for Spirits(disabled when not enough SP)
+*Changed loading of static battle scene images to prevent crash when unfocussing game window on launch(experimental)
+*Fixed Gain/Cheer not applying to sub pilots
+*Minor UI tweaks
+
+vc.b1.1.5
+*Added updated basic battle UI
+
+vc.b1.1.6
+*Added difficulty settings
+*Added additional NG+ diffculty
+*Misc. engine improvements and bug fixes
+
+vb1.0.2
+*Updated installer to create a game folder in the current location
+*Fixed potential black screen softlock after exiting the battle scene early
+*Fixed text scaling pop-in when toggling between units on the map
+*Added enemy unit quick toggle(shoulder triggers)
+*Added better error reporting for plugin command crashes
+*Added Effectiveness display
+*Fixed bug where the Riese-Eins did not get effects from equipped parts after Stage 11
+
+vb1.0.3
+*Mouse control improvements:
+	-You can now open the map menu by right clicking
+	-Fixed end turn prompt not accepting click inputs
+	-Added mouse controls for title screen
+*Added description overlay support for the attack list	
+*Unit fixes:
+	-Fixed Jenma not being unlocked after her intro stage(old save files will not have her unlocked, but the only impact is being unable to upgrade Jenma)
+	-Fixed Riese-Eins disappearing from the mech list and deploy list after stage 24(old save files will not be fixed, but the issues resolves itself on stage 27 or when manually changing the pilot during the intermission)
+*Fixed options not being stored and applied across save files, you may need to set your options again after updating
+*Added options menu to title screen
+
+vb1.0.4
+*Mouse control improvements:
+	-Added mouse controls to the mode selection window
+	-Added mouse controls for deploy from ship window
+	-Misc. mouse input fixes
+*Fixed some attack animation effects not playing	
+*Added Stage number indidcator to save entries(will be added when you next save)	
+*Added "Title" option to Data menu in intermission that lets you return to the title screen
+*Fixed potential instability caused by returing to the title screen from the Map menu
+*Improved battle scene stability
