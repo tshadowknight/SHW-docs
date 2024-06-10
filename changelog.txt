@@ -59,7 +59,8 @@ vb1.0.5
 *Fixed potential crash upon completing Stage 1
 *Fixed click interaction in return to title screen confirm
 *Fixed missing battle lines for Mio
-*Made indications related to combo weapon more clear
+*Made indications related to combo/team weapons in the attack list more clear
+*Fixed unit overlays not updating when hovering units in some situations
 *Unit changes:
 	-Buffed base stats for Musanki
 	-Buffed attributes of Rail Gun Volley
