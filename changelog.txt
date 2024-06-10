@@ -54,3 +54,12 @@ vb1.0.4
 *Added "Title" option to Data menu in intermission that lets you return to the title screen
 *Fixed potential instability caused by returing to the title screen from the Map menu
 *Improved battle scene stability
+
+vb1.0.5
+*Fixed potential crash upon completing Stage 1
+*Fixed click interaction in return to title screen confirm
+*Fixed missing battle lines for Mio
+*Made indications related to combo weapon more clear
+*Unit changes:
+	-Buffed base stats for Musanki
+	-Buffed attributes of Rail Gun Volley
