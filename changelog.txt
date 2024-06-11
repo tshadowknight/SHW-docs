@@ -64,3 +64,12 @@ vb1.0.5
 *Unit changes:
 	-Buffed base stats for Musanki
 	-Buffed attributes of Rail Gun Volley
+	
+vb1.0.6
+*Fixed not being able to reslot previously learned pilot abilities
+*Unit changes:
+	-Gave Mytheka access to IE: Earth
+	-Buffed Myth Spirit sets
+	-Changed STAGEs available for DaIRyS and buffed its FUB
+*Added Score display to unit summary overlay	
+*Fixed potential soft lock on stage 21	
