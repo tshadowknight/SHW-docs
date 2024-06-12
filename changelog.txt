@@ -73,3 +73,8 @@ vb1.0.6
 	-Changed STAGEs available for DaIRyS and buffed its FUB
 *Added Score display to unit summary overlay	
 *Fixed potential soft lock on stage 21	
+
+vb1.0.7
+*Fixed the Silvbell not showing parts slot and not being able to equip parts before unlocking its sub-pilot
+*Fixed stage script bug for stage 23 where events would retrigger and cause a softlock if you defeat the first wave of enemies before the next event happens
+*Fixed engine issue where destroying units with a MAP attack would cause a crash on Stage 17
