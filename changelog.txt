@@ -78,3 +78,13 @@ vb1.0.7
 *Fixed the Silvbell not showing parts slot and not being able to equip parts before unlocking its sub-pilot
 *Fixed stage script bug for stage 23 where events would retrigger and cause a softlock if you defeat the first wave of enemies before the next event happens
 *Fixed engine issue where destroying units with a MAP attack would cause a crash on Stage 17
+
+vb1.0.8
+*Misc. text fixes:
+	-Fixed typo in Stage 12
+	-Fixed additional typos
+	-Gave the Attune spirit a clearer description
+*Unit changes:
+		-Gave Mytheka an additional parts slot
+		-Buffed Myth Spirit sets(again)
+*Fixed engine bug where granting a unit flight through an effect would still use "-" terrain for hit and evade calculations, resulting in 0% rates for both	
