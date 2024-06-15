@@ -88,3 +88,4 @@ vb1.0.8
 		-Gave Mytheka an additional parts slot
 		-Buffed Myth Spirit sets(again)
 *Fixed engine bug where granting a unit flight through an effect would still use "-" terrain for hit and evade calculations, resulting in 0% rates for both	
+*Fixed Sora's Ace Bonus
