@@ -98,6 +98,6 @@ vb1.0.9
 *Fixed how additional abilities are handled in NG+, to avoid duplicate entries in the selection list and to avoid being able to sneak the NG+ abilities into a NG save
 *Gave Stage 12 newcomers more starting upgrades in NG+ to make the SR point obtainable on Extreme Mode
 *Unit changes:
-	-Make Altare an Ice attribute pilot	
+	-Made Altare an Ice attribute pilot	
 	-Musanki AM: IE water -> IE Ice
-*Fixed unit counts on stage 18 and 19	
+*Fixed enemy unit counts on stage 18 and 19	
