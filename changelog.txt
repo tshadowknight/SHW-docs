@@ -89,3 +89,15 @@ vb1.0.8
 		-Buffed Myth Spirit sets(again)
 *Fixed engine bug where granting a unit flight through an effect would still use "-" terrain for hit and evade calculations, resulting in 0% rates for both	
 *Fixed Sora's Ace Bonus
+
+vb1.0.9
+*Fixed engine bug where moving units around when doing a manual deployment would incorrectly apply ability effects leading to noticeable issues with HP and EN boosting parts
+*Fixed script bug on stage 17 where the boss would do their dialogue twice if you shoot them down
+*Fixed "-" terrain ranks showing up as D in menus
+*Added attribute indicators to pilot swap menu
+*Fixed how additional abilities are handled in NG+, to avoid duplicate entries in the selection list and to avoid being able to sneak the NG+ abilities into a NG save
+*Gave Stage 12 newcomers more starting upgrades in NG+ to make the SR point obtainable on Extreme Mode
+*Unit changes:
+	-Make Altare an Ice attribute pilot	
+	-Musanki AM: IE water -> IE Ice
+*Fixed unit counts on stage 18 and 19	
