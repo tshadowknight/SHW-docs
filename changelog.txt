@@ -101,3 +101,18 @@ vb1.0.9
 	-Made Altare an Ice attribute pilot	
 	-Musanki AM: IE water -> IE Ice
 *Fixed enemy unit counts on stage 18 and 19	
+
+vb1.1.0
+*Fixed unit name Tenma -> Temma
+*Added battle background: Frozen Sea 
+*Added attack animation for Bouncer's Flash
+*Fixed Nodoka and Jenma not having an Ace Ability which triggered a crash when viewing their detailed info with their Ace conditions met
+*Unit Changes:
+	-Buffed base stats for Herz-Eins
+	-Changed ammo of STAGEs with only one functional use to one
+*Fixed tracking of STAGES in use and STAGE ammo when switching pilots
+
+vb1.1.1
+*Unit Changes:
+	-Changed Granbell's Rocket Punch to use Ammo instead
+*Fixed crash when selecting multiple spirits at once
