@@ -116,3 +116,14 @@ vb1.1.1
 *Unit Changes:
 	-Changed Granbell's Rocket Punch to use Ammo instead
 *Fixed crash when selecting multiple spirits at once
+
+vb1.1.2
+*Fixed exploit where zone effects would linger after a soft reset
+*Fixed the Perks panel for multi seat units showing the perks of the main piots instead of the sub pilot in some cases
+*Misc. text fixes
+*Added fade out when doing a soft reset
+*Unit Changes:
+	-Adjusted Miko's Ace Bonus, it now ignores up to 1000 Armor
+	-Adjust Suisei'Ace Bonues, it now grants a 500 Weapon Power buff when above 80% HP
+*Updated exp gain when using resupply and repair, sub pilots now also gain both	
+	
