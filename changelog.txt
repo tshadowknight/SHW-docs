@@ -130,3 +130,11 @@ vb1.1.2
 vb1.1.3
 *Fixed potential issue causing pilot PP to be reset when going into a NG+(affected saves will not be corrected by this patch)
 *Fixed Jenma'a Ace Bonus not applying the cost reduction effect
+
+vb1.1.4
+*Fixed terrain rank upgrades to weapons not affecting their damage output
+*Fixed toggling of Attribute Indicator
+
+vb1.1.5
+*Minor text fixes
+*Fixed crash when using repair with the Starsail
