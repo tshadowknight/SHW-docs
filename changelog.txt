@@ -138,3 +138,20 @@ vb1.1.4
 vb1.1.5
 *Minor text fixes
 *Fixed crash when using repair with the Starsail
+
+vb1.1.6
+*Enhanced MAP attack preview
+*Fixed Ace bonuses for Izuru, Nodoka and Jenma being active without meeting the Ace requirement
+*Using the back button now returns to the title screen from the Mode Selection window
+*Fixed exp gain for sub pilots after using resupply, the amount is now scaled using the sub pilot's level
+*Misc text fixes
+*Fixed Stage number display on saves from stage 28
+*Fixed the effects of Gain not applying to sub pilots for MAP attacks gains
+*Fixed stat recalculation issues for units boarded onto a Ship after loading a save
+*Fixed issue where switching pilots would misbehave for units in locked deploy slots
+*Added Solar Crash attack animation
+*Unit changes:
+	-Rail Gun: Min Range changed from 2 to 1
+
+	
+	
