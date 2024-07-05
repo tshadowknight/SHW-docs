@@ -153,5 +153,9 @@ vb1.1.6
 *Unit changes:
 	-Rail Gun: Min Range changed from 2 to 1
 
-	
-	
+vb1.1.7	
+*Fixed issue where viewing the details of a Sub Pilot would result in broken sub-pilot navigation in that view
+*Added safeguards to make rare soft locks when tabbing out during the basic battle view escapable
+*Fixed the shadow of the enemy unit in the Basic Battle view not linening up with the unit when dodging 
+*Fixed being able to input during the fade after selecting an option on the title screen
+*Misc. Tileset and attribute fixes
