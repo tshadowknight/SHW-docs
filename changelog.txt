@@ -159,3 +159,10 @@ vb1.1.7
 *Fixed the shadow of the enemy unit in the Basic Battle view not linening up with the unit when dodging 
 *Fixed being able to input during the fade after selecting an option on the title screen
 *Misc. Tileset and attribute fixes
+
+vb1.1.8
+*Minor Text Fixes
+*Fixed Shubangelion's SB Field not activating when the unit does not have its Full Upgrade Bonus
+*Added Desert battle background
+*Fixed potential crash when using HP draining weapons in the battle scene
+*Fixed the HP bar overflowing(only visually) when using HP draining weapons
