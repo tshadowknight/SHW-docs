@@ -166,3 +166,17 @@ vb1.1.8
 *Added Desert battle background
 *Fixed potential crash when using HP draining weapons in the battle scene
 *Fixed the HP bar overflowing(only visually) when using HP draining weapons
+
+vb1.1.9
+*Fixed issues related to locked deploy slots and swapping pilots:
+	-Fixed pilot swapping during a stage causing units to be removed from locked slots if a deploy happens later in the stage
+	-Fixed pilot swapping during a stage causing deploys for the next stage to potentially be incorrect(those units may not be in locked slots as intended) 
+*Unit changes:
+	-Changed SP Costs for Gamers' Spirits
+	-Updated spirit Lists: 
+		-Mel: Mercy -> Fury
+		-Fubuki: Alert -> Fury, Foresee Cost -> 10SP, 
+		-Arurandeisu: Mercy -> Fury, 
+		-Kobo: Disrupt -> Fury, 
+		-Roberu: Spirit -> Fury
+	-Updated weapons for units that received Fury to gain a new status effect instead of Barrier Piercing
