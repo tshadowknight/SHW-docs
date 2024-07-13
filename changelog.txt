@@ -180,3 +180,11 @@ vb1.1.9
 		-Kobo: Disrupt -> Fury, 
 		-Roberu: Spirit -> Fury
 	-Updated weapons for units that received Fury to gain a new status effect instead of Barrier Piercing
+	
+vb1.2.0
+*Fixed incorrect display of obtained SR points on the intermission menu and in save listings(this will only be fixed after saving again)
+*Unit changes:
+	-Updated Pilot Abilities:
+		-Korone: Prevail L6(up to L8 through level up)
+		-Calliope: Hit & Away -> Pressure, Ace 1.2x Damage 130 Will -> Inflict additional damage equal to missing HP
+*Updated the tutorial to add sections to further point out the use of Spirits and the STAGE system to the player	
