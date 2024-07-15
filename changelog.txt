@@ -188,3 +188,11 @@ vb1.2.0
 		-Korone: Prevail L6(up to L8 through level up)
 		-Calliope: Hit & Away -> Pressure, Ace 1.2x Damage 130 Will -> Inflict additional damage equal to missing HP
 *Updated the tutorial to add sections to further point out the use of Spirits and the STAGE system to the player	
+
+vb1.2.1
+*Further tweaks to tutorial text
+*Fixed incorrect item assignment in stage 31
+*Added SE Base battle background
+*Made Mastery condition more clear on stage 33 and improved indication of failing the condition
+*Fixed bug where erased events could prevent units from receiving STAGE effects if standing on the same tile as the erased event
+*Fixed issues with being able to transfer parts from units currently not avaiable to the party
