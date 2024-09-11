@@ -196,3 +196,13 @@ vb1.2.1
 *Made Mastery condition more clear on stage 33 and improved indication of failing the condition
 *Fixed bug where erased events could prevent units from receiving STAGE effects if standing on the same tile as the erased event
 *Fixed issues with being able to transfer parts from units currently not avaiable to the party
+
+vb1.2.2
+*Fixed bug where shooting down allies with a MAP attack would drop a copy of their held parts and funds, exp and PP.
+*Added Attack animations for units joining on Stage 12:
+	-X-Capia
+	-V-Brezzu
+	-Starsail
+	-Musanki AM
+	-Musank AV
+	-Raguerre
