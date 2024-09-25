@@ -210,3 +210,7 @@ vb1.2.2
 vb1.2.3
 *Fixed bug where ally AI units could target other ally units for attacks
 *Added Attack animation for Navguessir
+
+vb1.2.4
+*Added quick pilot stat modifier selection by holding the shift/X key
+*Fixed remaining Oshi Points displaying as 999 with the infinite PP cheat enabled
