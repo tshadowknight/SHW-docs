@@ -206,3 +206,7 @@ vb1.2.2
 	-Musanki AM
 	-Musank AV
 	-Raguerre
+	
+vb1.2.3
+*Fixed bug where ally AI units could target other ally units for attacks
+*Added Attack animation for Navguessir
