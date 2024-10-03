@@ -214,3 +214,8 @@ vb1.2.3
 vb1.2.4
 *Added quick pilot stat modifier selection by holding the shift/X key
 *Fixed remaining Oshi Points displaying as 999 with the infinite PP cheat enabled
+
+vb1.2.5
+*Fixed a bug that caused excessive memory usage for battle scene effects. Lower VRAM GPUs (~4GB) should now be able to avoid out of VRAM crashes.
+*Enabled deploying units from a ship that has already moved for the turn.
+*Tweaked AI unit on Stage 16 to be less OP on Easy Mode.
