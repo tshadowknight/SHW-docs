@@ -227,7 +227,7 @@ vb1.2.6
 *Fixed event unit not disappearing at the end of Stage 35 if it was previously shot down
 
 vb1.2.7
-*Added Stellabys attack animation
+*Added Stellabrys attack animation
 *Misc. text fixes to stage scripts and ability descriptions
 *Fixed missing terrain effects on specific tiles on some maps
 *Fixed Pilot Skills with a cost above 999 not being purchasble with unlimited PP enabled
