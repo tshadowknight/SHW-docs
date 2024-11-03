@@ -219,3 +219,21 @@ vb1.2.5
 *Fixed a bug that caused excessive memory usage for battle scene effects. Lower VRAM GPUs (~4GB) should now be able to avoid out of VRAM crashes.
 *Enabled deploying units from a ship that has already moved for the turn.
 *Tweaked AI unit on Stage 16 to be less OP on Easy Mode.
+
+vb1.2.6
+*Added Skytracer attack animation
+*Added battle lines for enemy units
+*Fixed incorrect damage display during scripted battle scenes
+*Fixed event unit not disappearing at the end of Stage 35 if it was previously shot down
+
+vb1.2.7
+*Added Stellabys attack animation
+*Misc. text fixes to stage scripts and ability descriptions
+*Fixed missing terrain effects on specific tiles on some maps
+*Fixed Pilot Skills with a cost above 999 not being purchasble with unlimited PP enabled
+*Fixed click interactions:
+	-Fixed not being able to click mech ability entries in row 2 and 3
+	-Fixed glitchy redraw of attack list window when clicking attack entries
+*Fixed incorrect Full Upgrade Bonus for Herz-Eins
+*Added HP bar color slices
+*Updated Stage 16 script
