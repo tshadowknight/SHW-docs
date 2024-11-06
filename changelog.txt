@@ -237,3 +237,6 @@ vb1.2.7
 *Fixed incorrect Full Upgrade Bonus for Herz-Eins
 *Added HP bar color slices
 *Updated Stage 16 script
+
+vb1.2.8
+*Fixed bug that caused some battle scene effects to not load
