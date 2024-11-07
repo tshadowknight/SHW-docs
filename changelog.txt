@@ -240,3 +240,8 @@ vb1.2.7
 
 vb1.2.8
 *Fixed bug that caused some battle scene effects to not load
+
+vb1.2.9
+*Fixed crash in Bit Storm attack animation
+*Fixed another bug that caused some battle scene effects to not load
+*Fixed bug that could cause the incorrect effect to be used in some animations
