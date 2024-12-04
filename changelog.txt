@@ -245,3 +245,12 @@ vb1.2.9
 *Fixed crash in Bit Storm attack animation
 *Fixed another bug that caused some battle scene effects to not load
 *Fixed bug that could cause the incorrect effect to be used in some animations
+
+vb1.3.0
+*Fixed rare hangs in the basic battle view
+*Adjusted how the colored HP bar is handled to be more visually pleasing
+
+vb1.3.1
+*Updated battle text and added missing lines
+*Added Hi-Nye Mikodam attack animation
+*Added Robocosama attack animation
