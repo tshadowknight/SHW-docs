@@ -254,3 +254,10 @@ vb1.3.1
 *Updated battle text and added missing lines
 *Added Hi-Nye Mikodam attack animation
 *Added Robocosama attack animation
+
+vb1.3.2
+*Aded SunTempo Theme Song
+*Added Nebulon Attack animations
+*Added Subangelion Attack animation
+*Fixed engine UI issue where the UI layer would not cover the entire screen on the right side of the screen(1 pixel seam)
+*Fixed potential hangs in the battle scene when support attackers or defenders are involved
