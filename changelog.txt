@@ -261,3 +261,17 @@ vb1.3.2
 *Added Subangelion Attack animation
 *Fixed engine UI issue where the UI layer would not cover the entire screen on the right side of the screen(1 pixel seam)
 *Fixed potential hangs in the battle scene when support attackers or defenders are involved
+
+vb1.3.3
+*Fixed bug where returning to the title screen from the intermission and loading a continue save causes a softlock
+*Fixed bug where cancelling the difficulty selection after selecting new game shows a black screen when selecting Load right after
+*Fixed bug where AI controlled units holding a Cartridge would cause a crash
+*Fixed Stage 6 script to properly count shoot downs done with MAP weapons
+*Fixed scaling of mech icons in the item transfer menu
+*Fixed managing of parts owned by units that can't be transferred from, they can no longer be transferred from.
+*Fixed consumables refreshing when swapping pilots.
+*Fixed Fortune spirit not being cleared when using a MAP attack.
+*Fixed first turn of stages not counting towards total turn count.
+*Fixed Ability ? System Mu, used on the tutorial stage, not tracking its usage count correctly.
+*Fixed Ability Commands still being useable even if their remaining uses is 0 or lower.
+*Added cutin to Shooting Axe attack animation
