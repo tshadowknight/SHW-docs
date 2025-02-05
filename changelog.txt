@@ -268,10 +268,22 @@ vb1.3.3
 *Fixed bug where AI controlled units holding a Cartridge would cause a crash
 *Fixed Stage 6 script to properly count shoot downs done with MAP weapons
 *Fixed scaling of mech icons in the item transfer menu
-*Fixed managing of parts owned by units that can't be transferred from, they can no longer be transferred from.
-*Fixed consumables refreshing when swapping pilots.
-*Fixed Fortune spirit not being cleared when using a MAP attack.
-*Fixed first turn of stages not counting towards total turn count.
-*Fixed Ability ? System Mu, used on the tutorial stage, not tracking its usage count correctly.
-*Fixed Ability Commands still being useable even if their remaining uses is 0 or lower.
+*Fixed managing of parts owned by units that can't be transferred from, they can no longer be transferred from
+*Fixed consumables refreshing when swapping pilots
+*Fixed Fortune spirit not being cleared when using a MAP attack
+*Fixed first turn of stages not counting towards total turn count
+*Fixed Ability ? System Mu, used on the tutorial stage, not tracking its usage count correctly
+*Fixed Ability Commands still being useable even if their remaining uses is 0 or lower
 *Added cutin to Shooting Axe attack animation
+
+vb1.3.4
+*Fixed STAGEs expiring too quickly if additional factions are taking part in the battle
+*Fixed units losing their turn sometimes when swapping pilot with Zeal enabled
+*Changed it so that when "dodging" using the Shield ability the attack sequence shows a hit instead of a miss
+*Fixed some issues with attack animations during support defend hand-offs
+*Fixed bug where weapon effects of support attackers would not be applied
+*Fixed difficulty fund multipliers not being applied to MAP attacks
+*Fixed issue with exp gain calculation for subpilots after repair actions when the repair target is the own unit
+*Updated enemy spawns on stages 28 and 29
+*Added Ilmaleon attack animation
+*Added Holoh3ro theme song
