@@ -286,4 +286,15 @@ vb1.3.4
 *Fixed issue with exp gain calculation for subpilots after repair actions when the repair target is the own unit
 *Updated enemy spawns on stages 28 and 29
 *Added Ilmaleon attack animation
-*Added Holoh3ro theme song
+*Added Holoh3ro theme song.
+
+vb1.3.5
+*Updated model for Berreus units
+*Added Raging Shards and Blue Shine attack for Berreus units
+*Added Overlord's Command attack for SE-Overlord unit
+*Fixed loss condition and battle backgrounds on stage 30
+*Fixed barriers not showing up in the battle scene
+*Fixed crash in battle scene when the same barrier is shown twice when a support attack is involved
+*Updated attack menu to detect if MAP weapons have targets to enable the Attack command
+*Updated the attack list to also use the improved MAP attack check, map attacks will not be selectable if there are no targets
+*Fixed bug where cancelling out of map targeting after moving would not show the move range tile highlights(actual movement range was not affected)
