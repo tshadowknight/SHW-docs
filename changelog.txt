@@ -298,3 +298,8 @@ vb1.3.5
 *Updated attack menu to detect if MAP weapons have targets to enable the Attack command
 *Updated the attack list to also use the improved MAP attack check, map attacks will not be selectable if there are no targets
 *Fixed bug where cancelling out of map targeting after moving would not show the move range tile highlights(actual movement range was not affected)
+
+vb1.3.6
+*Fixed the activation rate of the Shield ability
+*Added Two Fists One Soul attack animation for Berreus units
+*General engine improvements
