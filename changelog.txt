@@ -303,3 +303,16 @@ vb1.3.6
 *Fixed the activation rate of the Shield ability
 *Added Two Fists One Soul attack animation for Berreus units
 *General engine improvements
+
+vb1.3.7
+*Fixed issues with sprite visibility after a support defend activation
+*Fixed incorrect animation for the SB Blaster animation after a support defend activation
+*Fixed barriers not being displayed
+*Fixed extra Musanki model appearing in Dual Rail Gun animation
+*Fixed bug where units with soul or valor up could not crit when support attacking
+*Fixed the activation rate of the Transcience ability
+*Buffed Vengeance to always deal at least the current missing HP as damage
+*Updated Robocosama assets
+*Added cutin to Core Smasher attack animation
+*Added Storm Crash attack animation
+*Added Cast animation and IE battle text for 2 boss units
