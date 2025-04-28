@@ -316,3 +316,8 @@ vb1.3.7
 *Added cutin to Core Smasher attack animation
 *Added Storm Crash attack animation
 *Added Cast animation and IE battle text for 2 boss units
+
+vb1.3.8
+*Added cutin to SB Blaster attack animation
+*Fixed crash when viewing a Battle Demo that involves a unit without an action(such as when affected by the Disabled status)
+*Fixed still being able to change the defensive action of a unit affected by the Disabled status using Pg Up/Pg Down controls
