@@ -321,3 +321,8 @@ vb1.3.8
 *Added cutin to SB Blaster attack animation
 *Fixed crash when viewing a Battle Demo that involves a unit without an action(such as when affected by the Disabled status)
 *Fixed still being able to change the defensive action of a unit affected by the Disabled status using Pg Up/Pg Down controls
+
+vb1.3.9
+*Updated assets for the Schulaor
+*Added Deep Retribution attack animation for Schulaor
+*Added misc. battle text
