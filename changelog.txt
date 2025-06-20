@@ -326,3 +326,8 @@ vb1.3.9
 *Updated assets for the Schulaor
 *Added Deep Retribution attack animation for Schulaor
 *Added misc. battle text
+
+vb1.4.0
+*Fixed issue where units without swappable pilots still appear in the Swap Pilot menu
+*Added Unknowable End attack animation for Schulaor
+*Updated core engine files
