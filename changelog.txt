@@ -331,3 +331,9 @@ vb1.4.0
 *Fixed issue where units without swappable pilots still appear in the Swap Pilot menu
 *Added Unknowable End attack animation for Schulaor
 *Updated core engine files
+
+vb1.4.1
+*Updated animations for SE-M01 and SE-M02 grunt units
+*Added default movement sounds for all units
+*Added animation for SE-M03
+*Fixed bug where pilot assignment could be wrong in some cases
