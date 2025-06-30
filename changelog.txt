@@ -337,3 +337,8 @@ vb1.4.1
 *Added default movement sounds for all units
 *Added animation for SE-M03
 *Fixed bug where pilot assignment could be wrong in some cases
+
+vb1.4.2
+*Fixed crash when starting Stage 23
+*Fixed bug where enemy units would also be treated as being on the terrain they were deployed on
+*Misc. text fixes
