@@ -342,3 +342,6 @@ vb1.4.2
 *Fixed crash when starting Stage 23
 *Fixed bug where enemy units would also be treated as being on the terrain they were deployed on
 *Misc. text fixes
+
+vb1.4.3
+*Fixed enemies spawning grounded when they're flight capable.
