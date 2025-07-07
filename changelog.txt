@@ -345,3 +345,13 @@ vb1.4.2
 
 vb1.4.3
 *Fixed enemies spawning grounded when they're flight capable.
+
+vb1.4.4
+*Fixed jets piloted by ducks on stage 24
+*Misc. text fixes
+*Fixed issue where some mechs could not Fly when equipped with a part that should enable it
+*Added Overcharged Beam attack animation
+*Added Gathering Dread attack animation
+*Fixed animation issue for Beeg Bang attack animation
+*Fixed wrong model used in Two Souls One First animation intro
+*Fixed crash when starting stage 15 or 34 related to Green Units
