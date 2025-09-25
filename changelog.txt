@@ -355,3 +355,12 @@ vb1.4.4
 *Fixed animation issue for Beeg Bang attack animation
 *Fixed wrong model used in Two Souls One First animation intro
 *Fixed crash when starting stage 15 or 34 related to Green Units
+
+vb1.4.5
+*Fixed bug where highlighted tiles from a previous map would sometimes still be visible
+*Added Missiles attack Animation
+*Added Ram attack Animation
+*Added Anti Cannon attack animation
+*Added option to toggle display of HP bars for units on the map
+*Updated Gemutlichkeit model and attack animations
+*Updated Spicegain attack animations
