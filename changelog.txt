@@ -364,3 +364,13 @@ vb1.4.5
 *Added option to toggle display of HP bars for units on the map
 *Updated Gemutlichkeit model and attack animations
 *Updated Spicegain attack animations
+
+vb1.4.6
+*Updated song assignments for early game units
+*Misc. text script updates and fixes
+*Fixed IE Air and IE Ground battle text for Korone and Okayu
+*Fixed Mytheka basic battle sprite positioning
+*Added new theme song for IRyS
+*Added Idol Level requirements for finisher moves
+*Updated Stage 28 events
+*Updated Bouncer's Flash attack animation
