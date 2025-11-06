@@ -374,3 +374,11 @@ vb1.4.6
 *Added Idol Level requirements for finisher moves
 *Updated Stage 28 events
 *Updated Bouncer's Flash attack animation
+
+vb1.4.7
+*Updated Winning Sun(previously Solar Crash) attack animation
+*Fixed issue where the second part of some attack animation would not play under certain lag conditions
+*Added new stage song for stages 20 and 21
+*Added new assets and updated attack animations for Livibell
+*Added new assets and updated attack animations for Granbell
+*Updated BGM for Gamers
