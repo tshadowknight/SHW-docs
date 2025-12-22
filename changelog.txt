@@ -382,3 +382,38 @@ vb1.4.7
 *Added new assets and updated attack animations for Livibell
 *Added new assets and updated attack animations for Granbell
 *Updated BGM for Gamers
+
+vb1.4.8
+*Added MMD render cut-ins for:
+-AZKi
+-Korone
+-Okayu
+-Fubuki
+-Mio
+-Sora
+-Miko
+-Aqua
+-Shion
+-Choco
+-Ayame
+-Amelia
+-Gura
+-Ina
+-Kiara
+-Calliope
+
+*Touched up attack animations for:
+-Scorching Light
+-Bell Bits
+
+*Added new assets and updated attacks animations for:
+-WGH-X 
+-Mytheka
+
+*Fixed unneeded pilot slot selection menu appearing when changing pilots for Granbell and Livibell
+*Fixed mouse controls for Oshi Point menu
+*Fixed Shubangelion Full Upgrade Bonus to use the custom one instead of the generic EN Regen one
+*Fixed Pressure ability to correctly reduce the opponents defense
+*Fixed bug where some backgrounds in the battle scene would be broken during counter attacks
+
+*Added additional sections to the chapter 1 epilogue script
