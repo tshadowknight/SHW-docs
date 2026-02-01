@@ -434,11 +434,13 @@ vb1.4.9
 -Rikka
 -Miyabi
 -Izuru
-*Roberu
-*Astel
-*Temma
-*???
-*Sana
+-Roberu
+-Astel
+-Temma
+-???
+
+*Added drawn cut-in for:
+-Sana
 
 *Touched up attack animations for:
 Railgun
@@ -447,7 +449,6 @@ Dual Railgun - FD
 *Updated Tutorial Script
 *Fixed bug where the block animation played by the incoming defender when support defending would get stuck half-way in to the animation
 *Minor attack animation tweaks and bug fixes
-
 *Fixed Witch Buster still using the v1 animation
 *Fixed potentials crash when hitting the soft reset key combination while inside certain menus or during event scenes
 *Fixed Soldiers on Stage 9 not having battle text
@@ -455,16 +456,14 @@ Dual Railgun - FD
 *Fixed not being able to swap pilots of units that are not added to the party yet(guest units or on stages where units first join)
 *Removed shift as a key that enables movement quick selection, it is now page up only
 *Fixed Stage 8 Mastery Condition not triggering when using a MAP attack to defeat multiple enemies at once
-
 *Added attack animation for scripted late game encounter
-
 *Updated continue save behavior so it is also overwritten when making an Intermission save(continue should now always load the last save you made)
 *Fixed the bgm not fading out when loading a continue save
-
 *Fixed minor UI issues
-
 *Fixed potential crash related to certain ability combinations on the same unit
 *Fixed crash when ending stage 32
 *Fixed issue where SE-02 would be invisible for the second part of the Beam Grab animation if a support defend occurred
 *Optimized particle effects for the Festival Beat animation
 *Updated support defend sequence to skip the unneeded fade swipe when returning the original target to its position
+
+​*Updated portraits for Rikka, Arurandeisu and Altare​
