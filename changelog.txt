@@ -467,3 +467,9 @@ Dual Railgun - FD
 *Updated support defend sequence to skip the unneeded fade swipe when returning the original target to its position
 
 ​*Updated portraits for Rikka, Arurandeisu and Altare​
+
+vb1.5.0
+*Fixed click interaction in unit lists for tabs and sorting
+*Update mech ability tab display in unit lists
+*Fixed issues with display of the mech abilities(Repair, Resupply, Barrier) in the mech list tab
+*Added text script preloading step to the map loader to avoid hitching when the assets for the scripts are loaded for the first time during gameplay
