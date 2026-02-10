@@ -473,3 +473,9 @@ vb1.5.0
 *Update mech ability tab display in unit lists
 *Fixed issues with display of the mech abilities(Repair, Resupply, Barrier) in the mech list tab
 *Added text script preloading step to the map loader to avoid hitching when the assets for the scripts are loaded for the first time during gameplay
+
+vb1.5.1
+*Fixed engine bug that could cause instability after swapping pilots mid-stage
+*Fixed engine bug where sub-pilots' turns would not be refreshed at the start of each turn
+*Updated battle text lines with more intro line variants
+*Misc. script fixes
