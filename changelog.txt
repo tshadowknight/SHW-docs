@@ -479,3 +479,8 @@ vb1.5.1
 *Fixed engine bug where sub-pilots' turns would not be refreshed at the start of each turn
 *Updated battle text lines with more intro line variants
 *Misc. script fixes
+
+vb1.5.2(Experimental)
+*Fixed resource leak bugs in the map scene and the basic battle window
+*Optimized Map Overlay windows
+*Fixed bug where the basic battle scene would not progress if the battle features a unit with self support attack being destroyed on the counter attack
