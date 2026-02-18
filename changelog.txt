@@ -484,3 +484,12 @@ vb1.5.2(Experimental)
 *Fixed resource leak bugs in the map scene and the basic battle window
 *Optimized Map Overlay windows
 *Fixed bug where the basic battle scene would not progress if the battle features a unit with self support attack being destroyed on the counter attack
+
+vb1.5.3
+*Fixed menu issues:
+-Fixed description overlay in Pilot details
+-Fixed sorting by level in unit lists
+-Updated layout of Sell Items menu
+
+*Fixed Fullscreen option not being reapplied on game load
+*Added late game animated story scene
