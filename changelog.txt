@@ -493,3 +493,14 @@ vb1.5.3
 
 *Fixed Fullscreen option not being reapplied on game load
 *Added late game animated story scene
+
+*Updated the following BGM:
+-Theme HoloX
+-Theme Overlord
+-Theme Gen 1
+-Theme Myth
+
+vb1.5.4
+*Updated internal namings of the Noise faction
+*Minor script changes 
+*Fixed issue where MAP hit rate indicator would be shown after cancelling out of a MAP attack
