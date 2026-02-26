@@ -504,3 +504,10 @@ vb1.5.4
 *Updated internal namings of the Noise faction
 *Minor script changes 
 *Fixed issue where MAP hit rate indicator would be shown after cancelling out of a MAP attack
+
+vb1.5.5
+*Updated funds gain for regular difficulties
+*Fixed bug where doing an Exit > Restart from the map menu would leave the Button Hints overlay non-functional and stuck on screen
+*Fixed stage script bug on stage 35 where a boss' defeat script would run after every action if defeating them is not the last thing you do to clear the map
+*Updated Stage 36 & 37 Stage Scripting
+*Added core engine optimization to menu text scaling
