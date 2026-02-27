@@ -511,3 +511,14 @@ vb1.5.5
 *Fixed stage script bug on stage 35 where a boss' defeat script would run after every action if defeating them is not the last thing you do to clear the map
 *Updated Stage 36 & 37 Stage Scripting
 *Added core engine optimization to menu text scaling
+
+vb1.5.6
+*Fixed text scaling not working correctly for some instances like Spirit descriptions.
+*Further fixes to the text scaling:
+-Further optimized the algorithm to avoid potential slowdown after having opened a lot of windows
+-Fixed potential crash when rendering fitted text
+
+*Fixed the battle scene UI and text not updating correctly after resizing the window mid battle scene
+*Fixed missing attacks lines for Shinove
+*Fixed missing touch controls on page buttons in the in stage deploy window(used when deploying from a ship)
+*Updated Creeping Thread attack animation
