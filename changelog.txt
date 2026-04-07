@@ -522,3 +522,91 @@ vb1.5.6
 *Fixed missing attacks lines for Shinove
 *Fixed missing touch controls on page buttons in the in stage deploy window(used when deploying from a ship)
 *Updated Creeping Thread attack animation
+
+=======================================================================================================================
+
+v1.0.0
+*Full release!
+*Fixed unneeded pilot slot prompt when swapping pilots for Granbell
+*Fixed several instances of stage scripts breaking when defeating bosses too fast
+*Misc. text fixes and script updates
+*Fixed bugs related to returning to the title screen from the Intermission and starting a new save file 
+*Fixed issue where skipping events could result in no BGM playing on the Intermission menu
+*Fixed potential issue where Oshi Point assignments could be transferred between save files
+*Fixed text fitting issues in before battle window
+*Fixed the Grid sometimes being visible when making saves in the Intermission
+
+v1.0.1
+*Updated installer to ask install location
+*Updated installer to have option to create a desktop short cut
+*Fixed Temma having a useless Charge spirit
+*Added Experimental APK build
+*Fixed click controls not working in the battle scene
+*Fixed Battle Text lines for Choco
+
+v1.0.2
+*[Mobile]Fixed crash when display battle text lines for some Pilots
+*Fixed load button now working on main menu
+
+v1.0.3
+*[Mobile]Fixed crash when display battle text lines for some Pilots
+*Added Reload option to map Exit menu
+*Fixed rare crash when returning to the title screen using the Restart option on the map
+
+v1.0.4
+*[Mobile]Fixed crash when viewing battle on Space terrain
+*[Mobile]Fixed missing back button in the counter attack selection window
+
+v1.0.5
+*Fixed missing battle text for Haato for IE Light/IE Dark
+*Fixed layout of Deploy button when confirming unit deployment
+*Fixed scroll touch interactions in text log and STAGE summary window
+*[Mobile]Replaced default RPG Maker save handling:
+-Save files are now stored in 'Internal storage\Android\data\com.tshadowknight.superholowars\files\save' and can be exchanged with the PC version
+-You can now save into more than ~18 save lots without running against the storage limit
+*[Mobile]Replaced default app id, this is a change that requires manually transferring the save files if updating to this version. Please see the instructions.
+*Fixed lag dependent crash in Budget Missiles attack animation(and potentially others)
+*Fixed touch input to confirm deployment causing the text to advance by itself
+*[Mobile]Fixed progression halting freeze on Stage 13
+
+**Mobile Save file migration for version 1.0.5**
+This only applies to the Mobile version and only when updating from a previous version!
+This requires a PC or root!
+1) Install Super Holo Wars - Export Save.APK, it will update the old APK
+2) Run the game once to the title screen, this will create the save files in the 'Internal storage\Android\data\com.example.rpgm\files\save' folder
+3) Close the App.
+4) Install the latest version v1.0.5+ APK, this will create a new app
+5 Run the game once to the title screen, this will create the 'Internal storage\Android\data\com.tshadowknight.superholowars\files\save' folder
+6) Close the App.
+7) Now connect your device to a PC or use a root access filemanger to copy the save files from 'Internal storage\Android\data\com.example.rpgm\files\save' to 'Internal storage\Android\data\com.tshadowknight.superholowars\files\save'
+
+After launching the new App and veriyfing the saves are present you may remove the old App.
+
+v1.0.6
+*Optimized the Damage Display animation in the battle scene
+*Optimized object allocation in the battle scene
+*Added provisional fix for issue where the location header would sometimes display black text instead of white
+*Fixed color schemes for Musanki units
+*Update scrolling and spacing on the opening scroll for easier narration
+
+v1.0.7
+*Further optimized the Damage Display to avoid a potential initial hitch during the display
+*Futher adjusted spacing and scroll speed in the opening scroll
+
+v1.0.8
+*Stable release candidate
+*Added option to jump between attack list entries when checking description info
+
+v1.0.9
+*Fixed potential crash when loading a save file related to incorrect difficulty mode setting
+
+v1.1.0
+*Fixed crash when switching pilots on the map
+*Fixed SR Point locks from game overs not being cleared on NG+
+
+v1.1.1
+*Improved Unit List on the map:
+-Fixed erased events from showing up in the list
+-Fixed quick navigation on selection jumping to the place the unit boarded the ship instead of the ship they're currently on for boarded units
+*Added clearer friendly fire indicator for map attack preview
+
