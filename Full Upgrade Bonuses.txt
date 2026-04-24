@@ -1,0 +1,153 @@
+
+12 - Zahnrad
+Weapons +200, Mobility + 10.
+
+13 - SE-M03
+Weapons +200, Armor + 200.
+
+14 - SE-M04
+Weapons +200, Armor + 200.
+
+15 - SE-Overlord
+Allies within 5 tiles gain +30 to their evade, hit and crit.
+
+16 - Noise Tank
+Weapons +200, Mobility + 10.
+
+18 - Tank
+Weapons +200, Mobility + 10.
+
+19 - SE-M02
+Weapons +200, Armor + 200.
+
+22 - Zahnrad
+Weapons +200, Mobility + 10.
+
+23 - SE-M01
+Weapons +200, Mobility + 10.
+
+26 - Schülaor
+All Terrain ratings become S-rank.
+
+27 - Granbell
+Weapons gain power equal to 30 times the Pilot's Idol level.
+
+28 - Livibell
+Weapons gain power equal to 30 times the Pilot's Idol level.
+
+29 - Mytheka
+EN+200. Move+1
+
+30 - DaIRyS
+Lets the pilot of this unit deploy a type IRyS S.T.A.G.E.
+Allies in the area of effect are enhanced.
+Lasts indefinitely. Remains where it was deployed.
+
+31 - Nebulon
++2 Move. +2 Ammo to Beeg Bang.
+
+32 - WGH-X
+The power and attributes of Budget Missile increase based on the total current funds.
+
+33 - Gemütlichkeit
+Mobility + 10, Afterimage activation rate becomes 40% and can activate at any Will.
+
+34 - Spicegain
+Movement + 1, Barrier Cost reduced by 10.
+
+35 - Riese-Eins
+Increases mobilty and power based on the Pilot's Idol level.
+
+36 - Herz-Eins
+Max EN +200. Move +2
+
+37 - Brassbell
+Armor +200. HP +2500
+
+38 - Silvbell
+Armor +200. HP +2500
+
+41 - Granbell
+Weapons gain power equal to 30 times the Pilot's Idol level.
+
+42 - Riese-Eins
+Increases mobilty and power based on the Pilot's Idol level.
+
+43 - Starsail
+Armor +200. HP +2500
+
+45 - Berreus
+All weapons +200 Power, +1 Move and S Rank for all terrains.
+
+46 - Berreus
+All weapons +200 Power, +1 Move and S Rank for all terrains.
+
+47 - Musanki AV
+Gain 20 Mobility. Weapon range +1. Move range +1.
+
+48 - Musanki AM
+Gain 20 Mobility. Weapon range +1. Move range +1.
+
+49 - Raguerre
+Gain +50 EN. Recover an additional 20% EN each turn.
+
+50 - V-Brezzu
+Gain 20 Mobility. Weapon range +1. Move range +1.
+
+51 - X-Capia
+P.Z. Slicer +300 Power, S Rank for all terrains and improved crit and hit rates.
+
+52 - Skytracer
+Gain +50 EN. Recover an additional 20% EN each turn.
+
+53 - Stellabrys
+All weapons +200 Power, +1 Move and S Rank for all terrains.
+
+54 - Hi-Nye Mikogear
+All weapons +200 Power, +1 Move and S Rank for all terrains.
+
+55 - Navgessir
+Barrier Field cost becomes 0. +1 Movement. All weapons +200 Power.
+
+56 - Robocosama
+Core Smasher and Discharge Field become Post move. All weapons +200 Power.
+
+57 - Ilmaleon
+This unit can move again after using the Repair or Resupply command once per turn.
+
+58 - Danye
++2 Move. Greatly enhance all weapons.
+
+59 - Schülaor
+Gain +50 EN. Recover an additional 20% EN each turn.
+
+60 - Shubangelion
+The S.B. Field ability now cancels up to 3000 damage and costs 5 EN less. Gain EN Regen(M).
+
+66 - Tank+
+Weapons +200, Mobility + 10.
+
+68 - Berreus+
+All weapons +200 Power, +1 Move and S Rank for all terrains.
+
+69 - Berreus+
+All weapons +200 Power, +1 Move and S Rank for all terrains.
+
+74 - Shubangelion
+Gain +50 EN. Recover an additional 20% EN each turn.
+
+75 - Zathor
+Gain 20 Mobility. Weapon range +1. Move range +1.
+
+76 - Empheror
+Gain 20 Mobility. Weapon range +1. Move range +1.
+
+77 - Skytracer[Noise]
+Gain +50 EN. Recover an additional 20% EN each turn.
+
+80 - Skytracer[Noise]
+Gain +50 EN. Recover an additional 20% EN each turn.
+
+83 - Aspect of AO
+Weapons +200, Mobility + 10.
+
