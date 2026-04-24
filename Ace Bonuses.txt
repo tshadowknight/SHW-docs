@@ -1,0 +1,149 @@
+14 - Ina: Auto Charge + Fury
+Automatically cast Charge and Fury at the start of the player turn at 130 Will or higher.
+
+17 - Gura: Damage 1.2
+Final damage times 1.2 at 130 Will or higher.
+
+18 - Amelia: Will Down attacks
+All attacks inflict Will Down when damaging the target.
+
+19 - Kiara: Support buff
+20% less damage taken when support defending, 20% more damage dealt when support attacking.
+
+20 - Calliope: Vengeance
+Unit deals additional damage equal to 100% of unit's missing HP.
+
+22 - Korone: Damage 1.2
+Final damage times 1.2 at 130 Will or higher.
+
+23 - Okayu: Auto persist
+Automatically cast Persist at the start of the player turn at 130 Will or higher.
+
+24 - Mio: Support buff
+20% less damage taken when support defending, 20% more damage dealt when support attacking.
+
+25 - Fubuki: Snipe damage buff
+Final damage times 1.3 when Snipe is active.
+
+27 - A-chan: Ace Commander
+Enhances the effects of the commander ability by 15%.
+
+28 - Nodoka: Cheaper Bonds + Regen
+The SP Cost of the Bonds Spirit command is reduced to 30. Gain +5 SP regen.
+
+29 - Enma: Ace Commander
+Enhances the effects of the commander ability by 15%.
+
+30 - Shinove: Ace Commander
+Enhances the effects of the commander ability by 15%.
+
+33 - La+: Ace Money Damage
+Damage increases by 10% for each 100k funds currently held, up to a maximum of 50%.
+
+34 - Chloe: Ace Money Damage
+Damage increases by 10% for each 100k funds currently held, up to a maximum of 50%.
+
+35 - Lui: Ace Money Damage
+Damage increases by 10% for each 100k funds currently held, up to a maximum of 50%.
+
+36 - Koyori: Ace Money Damage
+Damage increases by 10% for each 100k funds currently held, up to a maximum of 50%.
+
+37 - Iroha: Ace Money Damage
+Damage increases by 10% for each 100k funds currently held, up to a maximum of 50%.
+
+39 - IRyS: Damage 1.2
+Final damage times 1.2 at 130 Will or higher.
+
+44 - Sana: Space's Vastness+
+The pilot's unit is treated as size 2L. Deal 1.1 times damage.
+
+46 - Matsuri: Focus Band
+Survive a lethal hit up to once per stage.
+
+47 - Mel: Evasion +20%, Damage Taken -20%
+Evasion +20%, Damage Taken -20%.
+
+48 - Aki: Support buff
+20% less damage taken when support defending, 20% more damage dealt when support attacking.
+
+49 - Haato: Auto intuition
+Automatically cast Intuition at the start of the player turn at 130 Will or higher.
+
+51 - Ayame: Damage 1.2
+Final damage times 1.2 at 130 Will or higher.
+
+52 - Choco: Accuracy+, defense+
+Final Accuracy +30%, final damage received -20%.
+
+53 - Aqua: Auto persist
+Automatically cast Persist at the start of the player turn at 130 Will or higher.
+
+54 - Shion: Auto intuition
+Automatically cast Intuition at the start of the player turn at 130 Will or higher.
+
+55 - Subaru: Valor to Love
+Spirit command Valor becomes Love.
+
+57 - Altare: Analyse buff
+Inflict 30% more damage to targets affected by analyse.
+
+58 - Axel: Support buff
+20% less damage taken when support defending, 20% more damage dealt when support attacking.
+
+59 - Magni: Snipe damage buff
+Final damage times 1.3 when Snipe is active.
+
+60 - Vesper: Ace Final Defense
+Final Damage received reduced by 20%, except for range 1 attacks.
+
+62 - Miyabi: Brazen Spirit
+Prevail bonuses are 50% more effective. Unit takes 20% more damage.
+
+63 - Izuru: Cheaper Bonds + Regen
+The SP Cost of the Bonds Spirit command is reduced to 30. Gain +5 SP regen.
+
+64 - Arurandeisu: Ace Final Defense
+Final Damage received reduced by 20%, except for range 1 attacks.
+
+65 - Rikka: Support buff
+20% less damage taken when support defending, 20% more damage dealt when support attacking.
+
+67 - Astel: Damage 1.2
+Final damage times 1.2 at 130 Will or higher.
+
+68 - Roberu: Auto intuition
+Automatically cast Intuition at the start of the player turn at 130 Will or higher.
+
+69 - Temma: Ace Final Defense
+Final Damage received reduced by 20%, except for range 1 attacks.
+
+71 - Sora: Valor to Love
+Spirit command Valor becomes Love.
+
+72 - Robocosan: Support buff attack
+40% more damage inflicted when support attacking.
+
+73 - Miko: Luna
+At 140+ Will, attacks ignore 1000 points of Enemy Armor.
+
+74 - Suisei: Sol
+At 130+ Will, attacks recover 30% of damage dealt as HP, if HP is at 80% or higher Weapon Power +500.
+
+75 - AZKi: Snipe damage buff
+Final damage times 1.3 when Snipe is active.
+
+77 - Zeta: Auto intuition
+Automatically cast Intuition at the start of the player turn at 130 Will or higher.
+
+78 - Kaela: Long Distance Repair
+This unit can use Resupply and Heal on any ally regardless of distance. This unit can use Resupply and Heal on themself.
+
+79 - Kobo: Vengeance
+Unit deals additional damage equal to 100% of unit's missing HP.
+
+81 - Danye: Double Action Ace
+Allows the pilot an additional action each turn.
+
+82 - Jenma: Cheaper Enable + Regen
+The SP Cost of the Enable Spirit command is reduced to 50. Gain +5 SP regen.

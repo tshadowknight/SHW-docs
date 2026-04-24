@@ -653,3 +653,11 @@ v1.1.5
 
 v1.1.6
 *[Mobile]Fixed crash during the stage 32 outro
+
+v1.1.7
+*[Mobile]Fixed crash when a certain boss uses a MAP attack
+
+v1.1.8
+*Fixed issue with relative translations applied to effects(affected the Launcher animation among potential others)
+*Fixed issue where hitting a target in a block animation with an attack too weak to break their block still caused the model's current pose to shift slightly
+*Updated enemy behavior to no longer consider Persist when selecting counter attack to make it easier to safely view enemy finisher attack animations
