@@ -661,3 +661,14 @@ v1.1.8
 *Fixed issue with relative translations applied to effects(affected the Launcher animation among potential others)
 *Fixed issue where hitting a target in a block animation with an attack too weak to break their block still caused the model's current pose to shift slightly
 *Updated enemy behavior to no longer consider Persist when selecting counter attack to make it easier to safely view enemy finisher attack animations
+
+v1.1.9
+*Fixed issue where selected save slot would not be set correctly after loading a continue save
+*[Mobile] Fixed broken touch scroll interaction on scroll containers containing interactable elements
+*Fixed jitter in the UI when click or touch selecting an entry in the pilot upgrade ability list
+
+v1.2.0
+*Fixed crash when viewing a description overlay without any items to desribe and hitting up/down
+*Fixed model being left in the scene after a Two Fists One Soul attack animation misses
+*Fixed bugs in the battle scene related to support attacks preloading models with the same name as the main animation
+*Fixed missing support attack lines for Kel-psy/Lan-sat
