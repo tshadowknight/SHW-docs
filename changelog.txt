@@ -678,3 +678,4 @@ v1.2.1
 *Fixed models being left in the scene after a D&D Masks attack animation
 *Fixed Gemutlichkeit's katana not being visible on the counter attack after a D&D Masks attack animation
 *Fixed issue with the Storm Crash attack animation where the target would not appear in the correct position
+*[Mobile]Provisional fix for bad performance when mashing through text boxes
