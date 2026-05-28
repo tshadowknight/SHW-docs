@@ -672,3 +672,9 @@ v1.2.0
 *Fixed model being left in the scene after a Two Fists One Soul attack animation misses
 *Fixed bugs in the battle scene related to support attacks preloading models with the same name as the main animation
 *Fixed missing support attack lines for Kel-psy/Lan-sat
+
+v1.2.1
+*Actually fixed crash when viewing a description overlay without any items to desribe and hitting up/down
+*Fixed models being left in the scene after a D&D Masks attack animation
+*Fixed Gemutlichkeit's katana not being visible on the counter attack after a D&D Masks attack animation
+*Fixed issue with the Storm Crash attack animation where the target would not appear in the correct position
