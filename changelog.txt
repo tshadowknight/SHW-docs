@@ -679,3 +679,13 @@ v1.2.1
 *Fixed Gemutlichkeit's katana not being visible on the counter attack after a D&D Masks attack animation
 *Fixed issue with the Storm Crash attack animation where the target would not appear in the correct position
 *[Mobile]Provisional fix for bad performance when mashing through text boxes
+
+v1.2.2
+*Fixed issue where NG+ changes to abilities would not be visible until restarting the game
+*Fixed not being able to open the expanded ability list with touch controls(NG+)
+*Fixed missing touch controls to view the descriptions in the expanded ability list
+*Fixed key controls not scrolling the expanded ability list in the pilot upgrade window
+*Misc update to portraits and tilesets
+*Fixed Special Evasion not triggering for MAP attacks
+*Changed how Special Evasion is applied, it now goes before regular hit checks so it will trigger more often(the overall chance of getting hit is unchanged)
+*Added check in the Windows installer to check for avaiable space before attempting an install
