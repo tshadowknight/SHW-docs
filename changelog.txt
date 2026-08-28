@@ -689,3 +689,10 @@ v1.2.2
 *Fixed Special Evasion not triggering for MAP attacks
 *Changed how Special Evasion is applied, it now goes before regular hit checks so it will trigger more often(the overall chance of getting hit is unchanged)
 *Added check in the Windows installer to check for avaiable space before attempting an install
+
+v1.2.3
+*Bumped internal engine version to match latest SRW MV version
+*Fixed bug in script interpreter that would cause some commands to not be executed
+*Added Ally Support Spirit selection panel
+*Added access to Spirits in the before battle window when attacking
+*Added remaining Support Attack/Defened indicator on the Unit hover summary
