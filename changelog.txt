@@ -696,3 +696,7 @@ v1.2.3
 *Added Ally Support Spirit selection panel
 *Added access to Spirits in the before battle window when attacking
 *Added remaining Support Attack/Defened indicator on the Unit hover summary
+
+v1.2.4
+*Fixed Crash when viewing the unit list after using Ally Spirits
+*Fixed the menu selection reseting after activating an Ally Spirit
